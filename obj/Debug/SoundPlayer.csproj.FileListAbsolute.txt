@@ -1,0 +1,21 @@
+c:\users\tyler\documents\visual studio 2012\Projects\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.exe.config
+c:\users\tyler\documents\visual studio 2012\Projects\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.exe
+c:\users\tyler\documents\visual studio 2012\Projects\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.pdb
+c:\users\tyler\documents\visual studio 2012\Projects\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2012\Projects\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.Form1.resources
+c:\users\tyler\documents\visual studio 2012\Projects\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2012\Projects\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2012\Projects\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.exe
+c:\users\tyler\documents\visual studio 2012\Projects\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.pdb
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\bin\Debug\SoundPlayer.exe.config
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\obj\Debug\SoundPlayer.exe
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\obj\Debug\SoundPlayer.pdb
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\bin\Debug\SoundPlayer.exe
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\bin\Debug\SoundPlayer.pdb
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\obj\Debug\SoundPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\obj\Debug\SoundPlayer.Form1.resources
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\obj\Debug\SoundPlayer.Properties.Resources.resources
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\obj\Debug\SoundPlayer.csproj.GenerateResource.Cache
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\obj\Debug\SoundPlayer.PickKey.resources
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\obj\Debug\SoundPlayer.Error.resources
+C:\Users\Tyler Gregorcyk\Documents\GitHub\SoundPlayer\obj\Debug\SoundPlayer.Save.resources
